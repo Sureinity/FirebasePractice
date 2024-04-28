@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "198694848671",
+    "firebase_url": "https://databasedemo-17802-default-rtdb.firebaseio.com",
+    "project_id": "databasedemo-17802",
+    "storage_bucket": "databasedemo-17802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198694848671:android:1fcc325248cacc45523aaa",
+        "android_client_info": {
+          "package_name": "com.finalproject.lasd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBJsYYDvpYboiuL-X3p6ApWOS42eT3SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198694848671:android:9597b6c412e12320523aaa",
+        "android_client_info": {
+          "package_name": "com.official.firebasefetchdata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBJsYYDvpYboiuL-X3p6ApWOS42eT3SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
